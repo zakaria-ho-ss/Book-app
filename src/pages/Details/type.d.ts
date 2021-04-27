@@ -1,0 +1,4 @@
+interface DetailsProps {
+    handleRerunder: () => void;
+  }
+  
